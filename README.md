@@ -1,4 +1,4 @@
-factor.f(integer)<br/>  factor.f(int) -> list of int -- provides a list of all the factors of the first argument
+factor.f(integer)<br/>&nbsp;&nbsp;&nbsp;&nbsp;factor.f(int) -> list of int -- provides a list of all the factors of the first argument
 
 factor.gcf(num1, num2)<br/> factor.gcf(translatable to int, translatable to int) -> int -- provides the greatest common factor of the integers in the first argument
 
