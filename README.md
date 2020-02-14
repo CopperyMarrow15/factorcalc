@@ -1,5 +1,5 @@
 ## factorcalc
-### several (currently 5) modules relating to factor and multiple calculation<br/>
+### several (currently 5) modules relating to factor and multiple calculation<br/><br/>
 
 
 *factor.f(integer)*<br/>&nbsp;&nbsp;&nbsp;&nbsp;factor.f(int) -> list of int -- provides a list of all the factors of the first argument
