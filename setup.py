@@ -22,7 +22,10 @@ factor.primes(minimum, maximum)
 
 mult(number, quantity)
     factorcalc.mult(int, int > 0) -> list of int -- returns a list containing, in order, multiples of the first argument with the second argument being its length
-    This module does not relate to factor calculation but to multiple calculation. It has been added beause it might be of use.''',
+    This module does not relate to factor calculation but to multiple calculation. It has been added beause it might be of use.
+
+
+Find the README at https://github.com/CopperyMarrow15/factorcalc/''',
 classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
