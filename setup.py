@@ -3,7 +3,7 @@ import setuptools
 
 setuptools.setup(
     name='factorcalc',
-    version='0.1.2',
+    version='0.1.2.1',
     author='Eli Harrison',
     author_email='eliharrison89@gmail.com',
     url='https://github.com/CopperyMarrow15/factorcalc',
