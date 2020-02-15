@@ -1,8 +1,7 @@
-## factorcalc
-### several (currently 5) modules relating to factor and multiple calculation<br/><br/>
+## factorcalc<br/> several (currently 5) modules relating to factor and multiple calculation<br/><br/>
 
 ### VERSION: 0.1.2<br/>
-##### What's new?<br/>&nbsp;&nbsp;&nbsp;&nbsp;changed the description on PyPI<br/>&nbsp;&nbsp;&nbsp;&nbsp;added mult()<br/>&nbsp;&nbsp;&nbsp;&nbsp;added README.md<br/><br/><br/>
+#### What's new?<br/>&nbsp;&nbsp;&nbsp;&nbsp;changed the description on PyPI<br/>&nbsp;&nbsp;&nbsp;&nbsp;added mult()<br/>&nbsp;&nbsp;&nbsp;&nbsp;added README.md<br/><br/><br/>
 
 
 *factor.f(integer)*<br/>&nbsp;&nbsp;&nbsp;&nbsp;factor.f(int) -> list of int -- provides a list of all the factors of the first argument
