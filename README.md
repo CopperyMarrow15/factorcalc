@@ -1,4 +1,5 @@
-## factorcalc<br/> several (currently 5) modules relating to factor and multiple calculation<br/><br/>
+# factorcalc
+## several (currently 5) modules relating to factor and multiple calculation<br/><br/>
 
 ### VERSION: 0.1.2<br/>
 #### What's new?<br/>&nbsp;&nbsp;&nbsp;&nbsp;changed the description on PyPI<br/>&nbsp;&nbsp;&nbsp;&nbsp;added mult()<br/>&nbsp;&nbsp;&nbsp;&nbsp;added README.md<br/><br/><br/>
