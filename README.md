@@ -1,4 +1,5 @@
 # factorcalc
+<hr>
 ## several (currently 5) modules relating to factor and multiple calculation<br/><br/>
 
 ### VERSION: 0.1.2<br/>
